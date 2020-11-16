@@ -1,0 +1,2 @@
+# MonopollyPalamos
+ Projecte Monopolly Palamós
